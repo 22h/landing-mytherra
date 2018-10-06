@@ -1,12 +1,12 @@
 {
-  "mytherra/public/build/app.js": "/mytherra/public/build/app.7e6f0e93.js",
-  "mytherra/public/build/app.css": "/mytherra/public/build/app.c60b29dd.css",
-  "mytherra/public/build/images/btn_center.png": "/mytherra/public/build/images/btn_center.66dc281b.png",
-  "mytherra/public/build/images/btn_right.png": "/mytherra/public/build/images/btn_right.dbfcabe9.png",
-  "mytherra/public/build/images/header.jpg": "/mytherra/public/build/images/header.b16cd139.jpg",
-  "mytherra/public/build/images/border-bottom.png": "/mytherra/public/build/images/border-bottom.e19b3c3e.png",
-  "mytherra/public/build/images/dark_stone_2.jpg": "/mytherra/public/build/images/dark_stone_2.d3564cd0.jpg",
-  "mytherra/public/build/images/btn_left.png": "/mytherra/public/build/images/btn_left.627b092e.png",
-  "mytherra/public/build/images/border-top.png": "/mytherra/public/build/images/border-top.64560301.png",
-  "mytherra/public/build/images/dark_stone.jpg": "/mytherra/public/build/images/dark_stone.7d4e212a.jpg"
+  "build/app.js": "/build/app.7e6f0e93.js",
+  "build/app.css": "/build/app.c4c81dba.css",
+  "build/images/btn_center.png": "/build/images/btn_center.66dc281b.png",
+  "build/images/btn_right.png": "/build/images/btn_right.dbfcabe9.png",
+  "build/images/header.jpg": "/build/images/header.b16cd139.jpg",
+  "build/images/border-bottom.png": "/build/images/border-bottom.e19b3c3e.png",
+  "build/images/dark_stone_2.jpg": "/build/images/dark_stone_2.d3564cd0.jpg",
+  "build/images/btn_left.png": "/build/images/btn_left.627b092e.png",
+  "build/images/border-top.png": "/build/images/border-top.64560301.png",
+  "build/images/dark_stone.jpg": "/build/images/dark_stone.7d4e212a.jpg"
 }
