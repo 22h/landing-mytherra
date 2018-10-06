@@ -1,0 +1,28 @@
+.feature {
+  text-align: center;
+  margin-bottom: 2rem;
+
+  h3 {
+    margin: 2rem 0 1rem 0;
+  }
+
+  p {
+    opacity: 0.9;
+    text-align: left;
+  }
+  .feature-image {
+    border: 1px solid #7f7668;
+    opacity: 0.5;
+    transition: all 0.375s;
+    box-shadow: 0 0 20px 0 #000000;
+  }
+  &:hover {
+    .feature-image {
+      opacity: 1;
+      box-shadow: 0 0 20px 0 #352921;
+    }
+    p {
+      opacity: 1;
+    }
+  }
+}
